@@ -1,0 +1,58 @@
+/*GLOBAL STYLES*/
+
+/*GLOBAL STYLES BY MR. T 1-26-2016*/
+
+body{
+    margin:0px;    
+}
+
+a {
+    
+}
+
+h1{
+    
+}
+
+p { 
+    
+}
+
+header {
+    height:150px;
+    background-color:#FEE8D6
+}
+main {
+    height:600px;
+    background-color:#FFFFFF;
+    width:70%;
+    margin:25px auto;
+}
+
+footer {
+    height:150px;
+     background-color:#FEE8D6;
+     text-align:center; 
+     padding:50px;
+}
+
+/* BUTTON STYLE */ 
+
+.button {
+    background-color:#B6AFA9;
+    padding:15px 22px;
+    border-radius:6px;
+    color:#FFFFFF; 
+    text-decoration:none;
+}
+
+.button:hover {
+    background-color:#ADD8E6;
+} 
+
+/*.imagecenter*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
