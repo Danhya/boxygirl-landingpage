@@ -4,3 +4,5 @@
 
 ### Februaryh 17, 2016
     <p>Our entier class finally did a push to GitHub.:)</p>
+    
+## February 18th Clock-in 
