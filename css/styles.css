@@ -24,7 +24,7 @@ header {
 }
 main {
     height:600px;
-    background-color:#444444;
+    background-color:#FFFFFF;
     width:70%;
     margin:25px auto;
 }
@@ -39,7 +39,7 @@ footer {
 /* BUTTON STYLE */ 
 
 .button {
-    background-color:#B6AFA9;
+    background-color:#444444;
     padding:15px 22px;
     border-radius:6px;
     color:#FFFFFF; 
@@ -47,7 +47,7 @@ footer {
 }
 
 .button:hover {
-    background-color:#ADD8E6;
+    background-color:#F5E7E1;
 } 
 
 /*.imagecenter*/
